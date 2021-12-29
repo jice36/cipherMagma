@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/jice36/cipher_support"
-	"github.com/jice36/magma_ctr_acpkm"
+	"github.com/jice36/magma"
 )
 
 var CheckSum string
